@@ -23,7 +23,9 @@ var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="04/buying-vehicle-has-never-been-easier.html"}
 if(x=="2"){xxx="04/the-journey-of-ford-motors.html"}
-if(x=="3"){xxx="04/top-reasons-to-park-datsun-go-in-your.html"}a_to_ve[i].href="https://www.gotelinks.gq/2019/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="3"){xxx="04/top-reasons-to-park-datsun-go-in-your.html"}
+if(x=="3"){xxx="04/when-is-good-time-to-buy-used-car.html"}
+if(x=="3"){xxx="04/the-good-old-days-cars-weve-loved-and.html"}a_to_ve[i].href="https://www.gotelinks.gq/2019/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
